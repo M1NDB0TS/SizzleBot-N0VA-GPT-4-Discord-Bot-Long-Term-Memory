@@ -1,9 +1,36 @@
-Write detailed notes of the following in a hyphenated list format like "- "
+- **Top Placeholder:** 
+  - *Title of Entry:* Specify the name of the dish or culinary concept clearly to ensure it is easily identifiable within the Intergalactic Cookbook.
 
+- **Purpose of Entry:**
+  - *Objective:* Clarify that this entry is being compiled into the Intergalactic Cookbook to preserve diverse culinary knowledge across the galaxy for historical, educational, and entertainment purposes.
 
+- **Entry Content:** 
+  - *Introduction:* Provide a captivating description of the dish, highlighting its unique aspects and any interstellar origin stories.
+  - *Ingredients List:* Enumerate all necessary ingredients with specific quantities and special requirements, formatted for clarity and ease of understanding.
+  - *Cooking Instructions:* Offer detailed, step-by-step cooking instructions, ensuring clarity and ease of execution.
+  - *Cultural and Historical Significance:* Discuss the significance of the dish within its native or various cultures, including any folklore or famous anecdotes associated with it.
 
-<<INPUT>>
+- **Difficulty Level:**
+  - *Rate the complexity of preparing the dish,* ranging from Novice, Intermediate, Advanced, to Expert. This helps users decide which recipes they feel equipped to tackle based on their cooking skills.
 
+- **Interactive Elements:**
+  - *Suggestions Box:* Allow users or AI to suggest variations or improvements to the recipe in real time, which can be moderated and added to the entry.
+  - *Culinary Challenges:* Incorporate challenges or mini-quests related to the dish, such as finding rare ingredients or attempting advanced cooking techniques.
 
+- **Fun Factor:**
+  - *Quizzes and Trivia:* Include interactive quizzes or trivia related to the dish’s ingredients or origin, making learning about the recipe fun and engaging.
+  - *Virtual Cooking Contests:* Invite users to prepare the dish and share their results in a virtual contest format, encouraging community interaction and feedback.
 
-NOTES:
+- **Action Items:**
+  - *Further Research:* Identify specific areas where additional culinary or historical information is needed.
+  - *Regular Updates:* Set reminders for periodic updates to the recipe and its content to incorporate new findings or user feedback.
+
+- **Additional Resources:**
+  - *Links to Cooking Demos:* Provide links to video demonstrations or virtual reality cooking sessions for complex dishes.
+  - *Related Literature:* Reference books, articles, or documentaries that provide deeper insights into the dish’s cultural background.
+
+- **Bottom Placeholder:** 
+  - *Interactive Poem Feature:*
+    - *Poem Introduction:* Inspire users by starting a themed poem related to the dish, inviting them to contribute additional lines.
+    - *Engagement Mechanism:* Explain how users can interact with this poem, such as through online submissions or during live-streamed cooking sessions, to build a communal narrative around the recipe.
+

@@ -67,7 +67,7 @@ async def generate_completion_response(
          # You can rollback to using text-davincini-003 by swapping the active "response =" and "reply ="
 
         response = openai.ChatCompletion.create(
-            model="gpt-4-1106-preview",
+            model="gpt-4-turbo-2024-04-09",
             messages=[{"role": "system", "content": rendered}])
 
         #reply = response.choices[0].text.strip()

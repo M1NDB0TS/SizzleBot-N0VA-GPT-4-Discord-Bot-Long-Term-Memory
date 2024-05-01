@@ -36,19 +36,19 @@ def timestamp_to_datetime(unix_time):
     return datetime.fromtimestamp(unix_time).strftime("%A, %B %d, %Y at %I:%M%p %Z")
 
 
-def gpt3_embedding(message, engine='text-embedding-ada-002'):
+def gpt3_embedding(message, engine='text-embedding-3-small'):
     content = message.content
     response = openai.Embedding.create(input=content,engine=engine)
     vector = response['data'][0]['embedding']  # this is a normal list
     return vector
 
-def gpt3_response_embedding(response_data, engine='text-embedding-ada-002'):
+def gpt3_response_embedding(response_data, engine='text-embedding-3-small'):
     content = response_data.reply_text
     response = openai.Embedding.create(input=content,engine=engine)
     vector = response['data'][0]['embedding']  # this is a normal list
     return vector
 
-def gpt3_memory_embedding(content, engine='text-embedding-ada-002'):
+def gpt3_memory_embedding(content, engine='text-embedding-3-small'):
     content = content.encode(encoding='ASCII',errors='ignore').decode()
     response = openai.Embedding.create(input=content,engine=engine)
     vector = response['data'][0]['embedding']  # this is a normal list
